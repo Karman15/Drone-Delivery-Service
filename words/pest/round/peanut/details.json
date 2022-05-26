@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.186127,
+      "lat": 55.944642
+    },
+    "northeast": {
+      "lng": -3.186079,
+      "lat": 55.944669
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.186103,
+    "lat": 55.944656
+  },
+  "words": "pest.round.peanut",
+  "language": "en",
+  "map": "https://w3w.co/pest.round.peanut"
+}

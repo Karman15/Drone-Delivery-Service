@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.187861,
+      "lat": 55.943483
+    },
+    "northeast": {
+      "lng": -3.187813,
+      "lat": 55.94351
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.187837,
+    "lat": 55.943497
+  },
+  "words": "spell.stick.scale",
+  "language": "en",
+  "map": "https://w3w.co/spell.stick.scale"
+}

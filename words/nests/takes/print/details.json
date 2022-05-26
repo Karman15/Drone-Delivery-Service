@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.186898,
+      "lat": 55.94448
+    },
+    "northeast": {
+      "lng": -3.18685,
+      "lat": 55.944507
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.186874,
+    "lat": 55.944494
+  },
+  "words": "nests.takes.print",
+  "language": "en",
+  "map": "https://w3w.co/nests.takes.print"
+}

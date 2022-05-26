@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.18526,
+      "lat": 55.944696
+    },
+    "northeast": {
+      "lng": -3.185212,
+      "lat": 55.944723
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.185236,
+    "lat": 55.944709
+  },
+  "words": "fund.dreams.years",
+  "language": "en",
+  "map": "https://w3w.co/fund.dreams.years"
+}

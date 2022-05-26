@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.191281,
+      "lat": 55.945612
+    },
+    "northeast": {
+      "lng": -3.191233,
+      "lat": 55.945639
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.191257,
+    "lat": 55.945626
+  },
+  "words": "milky.hers.focus",
+  "language": "en",
+  "map": "https://w3w.co/milky.hers.focus"
+}

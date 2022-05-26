@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.191089,
+      "lat": 55.945612
+    },
+    "northeast": {
+      "lng": -3.19104,
+      "lat": 55.945639
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.191065,
+    "lat": 55.945626
+  },
+  "words": "sketch.spill.puzzle",
+  "language": "en",
+  "map": "https://w3w.co/sketch.spill.puzzle"
+}

@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.189355,
+      "lat": 55.943375
+    },
+    "northeast": {
+      "lng": -3.189306,
+      "lat": 55.943402
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.18933,
+    "lat": 55.943389
+  },
+  "words": "less.change.atomic",
+  "language": "en",
+  "map": "https://w3w.co/less.change.atomic"
+}

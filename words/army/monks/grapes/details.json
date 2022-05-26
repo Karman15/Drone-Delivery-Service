@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.191618,
+      "lat": 55.943645
+    },
+    "northeast": {
+      "lng": -3.19157,
+      "lat": 55.943672
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.191594,
+    "lat": 55.943658
+  },
+  "words": "army.monks.grapes",
+  "language": "en",
+  "map": "https://w3w.co/army.monks.grapes"
+}

@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.188536,
+      "lat": 55.944022
+    },
+    "northeast": {
+      "lng": -3.188487,
+      "lat": 55.944049
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.188512,
+    "lat": 55.944036
+  },
+  "words": "eager.them.agenda",
+  "language": "en",
+  "map": "https://w3w.co/eager.them.agenda"
+}

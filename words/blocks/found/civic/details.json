@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.186224,
+      "lat": 55.94572
+    },
+    "northeast": {
+      "lng": -3.186175,
+      "lat": 55.945747
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.186199,
+    "lat": 55.945734
+  },
+  "words": "blocks.found.civic",
+  "language": "en",
+  "map": "https://w3w.co/blocks.found.civic"
+}

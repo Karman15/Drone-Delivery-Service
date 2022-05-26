@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.185356,
+      "lat": 55.944642
+    },
+    "northeast": {
+      "lng": -3.185308,
+      "lat": 55.944669
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.185332,
+    "lat": 55.944656
+  },
+  "words": "looks.clouds.daring",
+  "language": "en",
+  "map": "https://w3w.co/looks.clouds.daring"
+}

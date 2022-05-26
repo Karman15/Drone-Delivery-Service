@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.18868,
+      "lat": 55.945855
+    },
+    "northeast": {
+      "lng": -3.188632,
+      "lat": 55.945882
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.188656,
+    "lat": 55.945868
+  },
+  "words": "surely.native.foal",
+  "language": "en",
+  "map": "https://w3w.co/surely.native.foal"
+}

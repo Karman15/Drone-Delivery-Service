@@ -1,0 +1,21 @@
+{
+  "country": "GB",
+  "square": {
+    "southwest": {
+      "lng": -3.188391,
+      "lat": 55.945343
+    },
+    "northeast": {
+      "lng": -3.188343,
+      "lat": 55.94537
+    }
+  },
+  "nearestPlace": "Edinburgh",
+  "coordinates": {
+    "lng": -3.188367,
+    "lat": 55.945356
+  },
+  "words": "linked.pads.cigar",
+  "language": "en",
+  "map": "https://w3w.co/linked.pads.cigar"
+}
